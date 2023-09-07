@@ -12,8 +12,8 @@
   branch = master
 [submodule "CMakeModules"]
   path = CMakeModules
-  url = https://github.com/NOAA-EMC/CMakeModules
-  branch = develop
+  url = https://github.com/climbfuji/CMakeModules.git
+  branch = feature/netcdf_libraries_always_remove_duplicates
 [submodule "CMEPS"]
   path = CMEPS-interface/CMEPS
   url = https://github.com/NOAA-EMC/CMEPS
