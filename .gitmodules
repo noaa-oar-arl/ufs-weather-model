@@ -41,7 +41,7 @@
 [submodule "AQM"]
   path = AQM
   url = https://github.com/noaa-oar-arl/AQM
-  branch = develop
+  branch = feature/cmaq54
 [submodule "NOAHMP"]
   path = NOAHMP-interface/noahmp
   url = https://github.com/NOAA-EMC/noahmp
