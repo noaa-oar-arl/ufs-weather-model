@@ -1173,7 +1173,7 @@
        description: CLAIE
      #
      - standard_name: inst_tracer_diag_cfch
-       canonical_units: 1
+       canonical_units: m
        description: CFCH
      #
      - standard_name: inst_tracer_diag_cfrt
