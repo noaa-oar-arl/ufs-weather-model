@@ -1185,7 +1185,7 @@
        description: CCLU
      #
      - standard_name: inst_tracer_diag_cpopu
-       canonical_units: 1
+       canonical_units: 10000people 10km-2
        description: CPOPU
      #
      - standard_name: inst_tracer_diag_coszens
