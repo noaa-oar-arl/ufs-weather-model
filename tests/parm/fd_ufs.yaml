@@ -1193,11 +1193,11 @@
        description: COSZENS
      #
      - standard_name: inst_tracer_diag_jo3o1d
-       canonical_units: 1
+       canonical_units: min-1
        description: JO3O1D
      #
      - standard_name: inst_tracer_diag_jno2
-       canonical_units: 1
+       canonical_units: min-1
        description: JNO2
      # IVAI
      - standard_name: Fall_lat
