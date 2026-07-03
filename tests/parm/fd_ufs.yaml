@@ -1118,6 +1118,10 @@ field_dictionary:
       description: AOD
     #
     # IVAI
+    - standard_name: inst_tracer_diag_aext
+      canonical_units: 1
+      description: AEXT
+    #
     - standard_name: inst_tracer_diag_claie
       canonical_units: 1
       description: CLAIE
